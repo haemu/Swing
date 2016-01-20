@@ -1,0 +1,5 @@
+http://docs.oracle.com/javase/tutorial/uiswing/components/toolbar.html
+
+https://jqueryui.com/
+
+http://eclipsesource.com/blogs/tutorials/emf-tutorial/
